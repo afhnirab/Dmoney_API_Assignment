@@ -1,11 +1,11 @@
 # Dmoney_API_Assignment
 
 ## Tools
-  Postman
-  Newman
-  VS code
-  Node.js
-  Git
+  1. Postman
+  2. Newman
+  3. VS code
+  4. Node.js
+  5. Git
   
 ## Documentation
 https://documenter.getpostman.com/view/17913091/2s935hPSDB
