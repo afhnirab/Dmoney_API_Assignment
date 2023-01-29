@@ -19,5 +19,5 @@ https://docs.google.com/spreadsheets/d/1IFAvKyL7rIurzU5NJp-sUobkCHamHNgk/edit?us
 ## Bug Report Link
 https://docs.google.com/spreadsheets/d/1N-p_luR-IVJSw3LIUHjh2E5bUOisYTqw/edit?usp=sharing&ouid=103265193281270670621&rtpof=true&sd=true
 
-Newman Screenshot
+## Screenshot
 ![image](https://user-images.githubusercontent.com/61575633/215282090-c1469c39-ff3a-4dea-a366-dc0839abebcd.png)
